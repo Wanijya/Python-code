@@ -1,0 +1,32 @@
+# Python is the interpreted Language.
+-> Variables:-
+            Whenever you want to store something in python, you use the variable
+
+-> Data types:-
+        1. Numbers:-
+                    integer
+                    float
+                    complex (a = 12j)
+        2. Boolean:-
+                    True
+                    False
+        3. String:-
+                    " "
+                    ' '
+
+-> Type Casting / Type Conversion:-
+                type():- 
+                        this is used to check the type of our data
+                Type Conversion:-
+                                 means changing our data type from one to another
+                                 a = 123
+                                 a = str(a)
+                                 print(a) // Output:- "123"
+                Falsy Values:-
+                            Flase, none, Zero numeric values, Empty sequences and collections
+
+
+
+--> Decorators:- We can add a functionlity in the other function
+        --> method which is not retunring the values it is contructer also
+        --> method which is retunring the values it is not a contructer
